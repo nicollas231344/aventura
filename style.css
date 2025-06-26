@@ -21,6 +21,13 @@ button {
 }
  .passo.ativo{
     text-width: 90%
+
+
+main{
+text-align: center
+max: width 90%;
+}
+
  }
  img {
     max-width: 90%;
