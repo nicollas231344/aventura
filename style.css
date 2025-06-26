@@ -14,3 +14,14 @@ button {
     color: white;
     font-family: "bai jamjuree", sans-serif;
 }
+
+.passo{
+    display: nome;
+
+}
+ .passo.ativo{
+    text-width: 90%
+ }
+ img {
+    max-width: 90%;
+ }
